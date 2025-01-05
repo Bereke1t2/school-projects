@@ -46,3 +46,6 @@ By following these steps, you should be able to set up and test the chat applica
    • Now you can test the application with both user accounts to ensure everything is functioning correctly.
 
 ```
+![Screenshot 2024-12-28 163912](https://github.com/user-attachments/assets/a005915a-3f18-4e8b-8337-aeeb91a30de2)
+
+
