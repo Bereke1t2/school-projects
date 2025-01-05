@@ -48,4 +48,21 @@ By following these steps, you should be able to set up and test the chat applica
 ```
 ![Screenshot 2024-12-28 163912](https://github.com/user-attachments/assets/a005915a-3f18-4e8b-8337-aeeb91a30de2)
 
+register page
+
+
+
+![Screenshot 2024-12-28 163835](https://github.com/user-attachments/assets/cb24c44a-3592-4a5a-9ee9-87e4fcda5e83)
+
+login page 
+
+
+
+
+
+![Screenshot 2024-12-28 163735](https://github.com/user-attachments/assets/9a1fc666-4040-4494-b44a-1229ef865183)
+
+chatlist and chat pages
+
+![Screenshot 2024-12-28 163552](https://github.com/user-attachments/assets/d4aadb71-0f33-482f-a7fa-e0d4d3743675)
 
